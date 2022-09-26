@@ -1,2 +1,7 @@
-## dO not forget to include 
-#!/usr/bin/env python OR python3
+## dO not forget to include the shabang:
+
+- #!/usr/bin/env python OR python3
+
+
+
+
